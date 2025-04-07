@@ -1,0 +1,5 @@
+steamlit
+pillow
+matplotlib
+pandas
+numpy
